@@ -7,3 +7,4 @@ add merge.
 something did not commit.
 dev is also a important version.
 chuyubin modified master readme.txt from learngit2.
+chuyubin modified here again.
