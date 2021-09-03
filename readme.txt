@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 add merge.
 something did not commit.
 dev is also a important version.
+chuyubin want to experience conflict and try to solve it.
